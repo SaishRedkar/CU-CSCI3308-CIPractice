@@ -3,5 +3,5 @@ language: c
 
 script:
   - make
-  - ./geometry_test
+  - geometry_test
 
