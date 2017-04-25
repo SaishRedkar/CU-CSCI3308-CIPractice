@@ -2,5 +2,6 @@
 language: c
 
 script:
-  make && ./geometry_test
+  - make
+  - ./geometry_test
 
