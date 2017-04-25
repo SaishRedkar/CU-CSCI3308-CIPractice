@@ -2,6 +2,5 @@
 language: c
 
 script:
-  - make
-  - geometry_test
+  make
 
